@@ -1,8 +1,8 @@
 /********** Template CSS **********/
 :root {
-    --primary: #f7b32bff;
+    --primary: #000;
     --light: #efffef;
-    --dark: #1b2c51;
+    --dark: #f7b32bff;
 }
 
 .fw-medium {
@@ -546,12 +546,12 @@
     display: none;
 }
 header i {
-    color: #f7b32bff;
+    color: #000;
     font-size: 32px;
     text-align: center;
 }
 header h2 {
-    color: #f7b32bff;
+    color: #000;
     font-weight: 500;
     text-align: center;
 }
@@ -559,7 +559,7 @@ header h2 {
     text-align: center;
 }
 .data p a {
-    color: #f7b32bff;
+    color: #000;
     text-decoration: none;
     text-align: center !important;
 }
@@ -571,10 +571,10 @@ header h2 {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #f7b32bff;
+    border: 2px solid #000;
     color: #fff;
     padding: 8px 0;
-    background: #f7b32bff;
+    background: #000;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.5s ease;
@@ -583,14 +583,14 @@ header h2 {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #f7b32bff;
+    color: #000;
 }
 #declineBtn {
     background-color: #fff;
-    color: #f7b32bff;
+    color: #000;
 }
 #declineBtn:hover {
-    background-color: #f7b32bff;
+    background-color: #000;
     color: #fff;
 }
 /* Footer Style */
